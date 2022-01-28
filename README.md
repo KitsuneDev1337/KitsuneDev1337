@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning HTML, MySQL, PHP
 - 🌱 I’m currently learning HTML, MySQL, PHP
 - 💞️ I’m looking to collaborate on small websites
-- 📫 How to reach me 
+- 📫 How to reach me idk tbh
 
 <!---
 KitsuneDev1337/KitsuneDev1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
