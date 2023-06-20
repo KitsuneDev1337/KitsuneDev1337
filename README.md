@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KitsuneDev1337
-- 👀 I’m interested in learning HTML, MySQL, PHP
-- 🌱 I’m currently learning HTML, MySQL, PHP
+- 👀 I’m interested in learning JavaScript, SQL, PHP
+- 🌱 I’m currently learning MySQL, PHP
 - 💞️ I’m looking to collaborate on small websites
 - 📫 How to reach me idk tbh
 
